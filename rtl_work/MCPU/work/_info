@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/MinGW/msys/1.0/home/m_fad/rtl_work/MCPU
+vCPU
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1767429837
+!i10b 1
+!s100 O<OSej^_aP<PAV;@oPgG<3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IESf_m6=[F@za^X@6N:oc71
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1767429820
+8rtl/CPU.sv
+Frtl/CPU.sv
+!i122 9
+L0 1 22
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1767429837.000000
+!s107 rtl/CPU.sv|testbench/tb.sv|
+Z7 !s90 -f|filelist.f|-l|log/compile.log|
+!i113 1
+Z8 tCvgOpt 0
+n@c@p@u
+vtb
+R1
+R2
+!i10b 1
+!s100 8jfCoXG@`5L5K3gEXL>fS1
+R3
+IHf[@imoZ7c2ii@9S1gh5f2
+R4
+S1
+R0
+w1767428827
+8testbench/tb.sv
+Ftestbench/tb.sv
+!i122 9
+L0 3 28
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 rtl/CPU.sv|testbench/tb.sv|
+R7
+!i113 1
+R8

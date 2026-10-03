@@ -1,0 +1,16 @@
+# vsim -c test -do "run 10ms; quit" -l log/sim.log 
+# Start time: 17:32:21 on Jul 20,2024
+# Loading sv_std.std
+# Loading work.test
+# Loading work.rgb2hsv
+# run 10ms
+# Simulation Start!!
+# rgb2hsv start:     0
+# Simulation End!! :                 1100 ns
+# ** Note: $stop    : testbench/test.sv(19)
+#    Time: 1100 ns  Iteration: 0  Instance: /test
+# Break in Module test at testbench/test.sv line 19
+# Stopped at testbench/test.sv line 19
+#  quit
+# End time: 17:32:21 on Jul 20,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

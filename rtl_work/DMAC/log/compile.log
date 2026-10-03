@@ -1,0 +1,9 @@
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 17:36:45 on Apr 28,2024
+vlog -f filelist.f -l log/compile.log 
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+End time: 17:36:45 on Apr 28,2024, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
