@@ -1,8 +1,0 @@
-# vsim -c FIFO -do "run -all; quit;" -l log/sim.log 
-# Start time: 17:36:45 on Apr 28,2024
-# Loading sv_std.std
-# Loading work.FIFO
-# run -all
-#  quit
-# End time: 17:36:46 on Apr 28,2024, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0

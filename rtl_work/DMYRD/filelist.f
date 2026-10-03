@@ -1,2 +1,0 @@
--sv testbench/test.sv
--sv rtl/DMYRD.v
